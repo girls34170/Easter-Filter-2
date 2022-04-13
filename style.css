@@ -1,0 +1,23 @@
+body{
+    background-image:url("images.jpg");
+    border:5px ridge rgb(228, 104, 197);
+}
+h1{
+    font-family: 'Supermercado One', cursive;
+    color:rgb(214, 78, 101);
+    background-color:pink;
+    border-radius:100px;
+    width:250px;
+}
+canvas{
+    background-color:rgb(247, 11, 145);
+    border:5px ridge pink;
+    box-shadow:5px 5px 5px black;
+    margin-top:50;
+}
+button{
+    background-color: rgb(232, 158, 223);
+    font-family: 'Supermercado One', cursive;
+    border-radius:25px;
+    font-size:15px;
+}
